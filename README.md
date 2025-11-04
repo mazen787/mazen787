@@ -59,25 +59,10 @@ I believe data is more than numbers — it’s the story behind every business d
   📊 Model Evaluation  
 </p>
 
-#### 💬 Soft Skills
-<p align="left">
-  🤝 Teamwork  
-  🗣️ Communication  
-  🎯 Leadership  
-  💡 Problem Solving  
-  📊 Presentation Skills  
-  🌱 Adaptability  
-</p>
 
 
-### 🧾 Certifications
-- 🎓 Google Data Analytics – Coursera  
-- 🎓 Google Advanced Data Analytics – Coursera  
-- 🤖 Machine Learning Program – NTI  
-- 🧠 Data Science – DEPI (Ongoing)  
-- 💡 Data Analysis Diploma – Machienfy  
 
----
+
 
 ### 🌐 Connect With Me
 <p align="center">
