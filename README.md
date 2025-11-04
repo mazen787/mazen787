@@ -15,9 +15,6 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ---
 
-
----
-
 ### 🧰 Technical Skills
 
 #### 🐍 Languages
@@ -65,16 +62,28 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ### 🌐 Connect With Me
 <p align="center">
+  <!-- Email -->
   <a href="mailto:mazenashraf6363@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mazen--ashraf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- GitHub -->
   <a href="https://github.com/mazen787" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <!-- Phone -->
+  <a href="tel:+201204704152" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Number"/>
+  </a>
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1WqSE1J08wYUEhTsW-6kbdE6Zbt-3hpbZ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
+
 
 ---
 
