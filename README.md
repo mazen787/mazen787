@@ -29,6 +29,61 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ---
 
+### 🧰 Technical Skills
+
+#### 🐍 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL" title="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" title="Scikit-Learn"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="SQL Server"/>
+</p>
+
+#### 📊 Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel"/>
+</p>
+
+#### 🧹 Data Handling
+<p align="left">
+  🧼 Data Cleaning & Wrangling  
+  🧩 Data Modeling  
+  📉 Handling Missing Data  
+</p>
+
+#### 📈 Statistics
+<p align="left">
+  📊 Descriptive Statistics  
+  🧪 Hypothesis Testing  
+  📘 Data Interpretation  
+</p>
+
+#### 🤖 Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="ML" title="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Neural Networks" title="Neural Networks"/>
+  🧠 Supervised & Unsupervised Learning  
+  📊 Model Evaluation  
+</p>
+
+#### 💬 Soft Skills
+<p align="left">
+  🤝 Teamwork  
+  🗣️ Communication  
+  🎯 Leadership  
+  💡 Problem Solving  
+  📊 Presentation Skills  
+  🌱 Adaptability  
+</p>
 
 
 ### 🧾 Certifications
