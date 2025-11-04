@@ -16,17 +16,6 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ---
 
-### 🧰 My Toolbox
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,sqlserver" title="Python & SQL Server"/>
-  <!-- Visualization -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" title="Power BI, Tableau, Excel"/>
-  <!-- ML / Data -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy" title="scikit-learn, Pandas, NumPy"/>
-  <!-- General -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git, GitHub, VS Code"/>
-</p>
 
 ---
 
@@ -54,12 +43,6 @@ I believe data is more than numbers — it’s the story behind every business d
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel"/>
 </p>
 
-#### 🧹 Data Handling
-<p align="left">
-  🧼 Data Cleaning & Wrangling  
-  🧩 Data Modeling  
-  📉 Handling Missing Data  
-</p>
 
 #### 📈 Statistics
 <p align="left">
