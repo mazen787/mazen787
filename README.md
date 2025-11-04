@@ -1,67 +1,77 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+Hi there, I'm Mazen Ashraf 👋
 
-###
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hxdjQ5YjVzM3U3ZTBkZTh0ZWhjYWZsdXN6cnNqamtscjB2YWxkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px">
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I'm a Junior Data Analyst from Cairo, Egypt, with a strong passion for turning raw data into clear, actionable insights. I love digging into complex datasets to understand the story beyond the surface.
 
-###
+👨‍💻 I’m skilled in the full data analysis lifecycle: from data cleaning and modeling to building interactive dashboards.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+📈 I've completed over 10 projects using Python, SQL, Power BI, and Excel.
 
-###
+🌱 I’m currently advancing my skills in Machine Learning, MLOps, and Prompt Engineering.
 
-<h1 align="center">hey there 👋</h1>
+📬 Get in Touch
 
-###
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mazen--ashraf" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="mailto:mazenashraf6363@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+</a>
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+🛠️ My Tech Stack & Skills
 
-###
+Here are the primary tools and technologies I work with:
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+Languages & Core Tools
 
-###
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsql" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+Data Visualization
 
-###
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi" title="Power BI" alt="Power BI" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtableau" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexcel" title="Excel" alt="Excel" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatplotlib" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp;
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+Data Science & Machine Learning
 
-###
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy" title="NumPy" alt="NumPy" width="45" height="45"/>&nbsp;
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn" title="Scikit-Learn" alt="Scikit-Learn" width="45" height="45"/>&nbsp;
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+Database
 
-###
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsqlserver" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="45" height="45"/>&nbsp;
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+📈 Key Projects
 
-###
+Here are a few highlights from my portfolio. Be sure to check out my repositories for more!
+
+🛒 Retail Sales Performance Dashboard: Analyzed 20,000+ transactions using Excel, Pivot Tables, and slicers to identify top products and underperforming stores.
+
+🏦 Bank Loan Data Analysis: Extracted key loan approval factors using SQL and visualized insights with Tableau, helping to streamline the decision-making process.
+
+🚗 Road Accident Analysis: Cleaned and analyzed accident data with Python (Pandas) and built a Power BI dashboard to identify high-risk areas and recommend safety improvements.
+
+📊 My GitHub Stats
+
+<p align="center">
+<!-- Change mazen787 to your GitHub username if it's different -->
+<!-- You can change the theme here: https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmazen787%26show_icons%3Dtrue%26theme%3Dtokyonight%26rank_icon%3Dgithub" alt="Mazen's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmazen787%26layout%3Dcompact%26theme%3Dtokyonight" alt="Mazen's Top Languages" />
+</p>
