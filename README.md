@@ -1,77 +1,68 @@
-Hi there, I'm Mazen Ashraf 👋
+<!-- Profile README for Mazen Ashraf -->
+<h1 align="center">👋 Hi, I'm Mazen Ashraf</h1>
+<h3 align="center">Junior Data Analyst | Data Science Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hxdjQ5YjVzM3U3ZTBkZTh0ZWhjYWZsdXN6cnNqamtscjB2YWxkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px">
-</p>
+---
 
-I'm a Junior Data Analyst from Cairo, Egypt, with a strong passion for turning raw data into clear, actionable insights. I love digging into complex datasets to understand the story beyond the surface.
+### 🧠 About Me
+I'm a **Junior Data Analyst** passionate about transforming raw data into meaningful insights that drive better decisions.  
+I enjoy exploring datasets, building dashboards, and continuously learning the latest tools in data analytics and machine learning.  
 
-👨‍💻 I’m skilled in the full data analysis lifecycle: from data cleaning and modeling to building interactive dashboards.
+🎓 **B.Sc. in Computer Science** – Akhbar El-Yom Academy (GPA 3.1/4)  
+💡 Certified by **Google Data Analytics** & **NTI Machine Learning Program**  
+🚀 Currently advancing in **MLOps**, **Prompt Engineering**, and **Machine Learning** through the DEPI Initiative  
 
-📈 I've completed over 10 projects using Python, SQL, Power BI, and Excel.
+---
 
-🌱 I’m currently advancing my skills in Machine Learning, MLOps, and Prompt Engineering.
+### 🛠️ Technical Skills
 
-📬 Get in Touch
+**Languages:** Python (Pandas, NumPy, Matplotlib, scikit-learn), SQL  
+**Databases:** Microsoft SQL Server  
+**Visualization Tools:** Power BI (Power Query, DAX), Tableau, Excel  
+**Data Handling:** Cleaning, Wrangling, Modeling, Missing Data Treatment  
+**Statistics:** Descriptive Stats, Hypothesis Testing, Data Interpretation  
+**Machine Learning:** Supervised & Unsupervised Learning, Neural Networks, Model Evaluation  
+**Soft Skills:** Leadership, Communication, Presentation, Teamwork, Adaptability  
 
+---
+
+### 📊 Featured Projects
+
+#### 🏪 [Retail Sales Performance Dashboard (Excel)](https://github.com/mazen787)
+- Built an interactive dashboard analyzing **20,000+ transactions** using PivotTables & slicers  
+- Uncovered top 5 products driving **28% of total revenue** and underperforming stores missing targets by **25%**  
+
+#### 🏦 [Bank Loan Data Analysis (SQL, Tableau)](https://github.com/mazen787)
+- Extracted key insights using SQL and visualized with Tableau  
+- Reduced decision time by **60%** and identified top factors affecting loan approvals  
+
+#### 🚦 [Road Accident Analysis (Python, Power BI)](https://github.com/mazen787)
+- Cleaned and analyzed accident data in Python (handling duplicates & missing values)  
+- Built a Power BI dashboard showing trends and safety recommendations with **70% improvement**  
+
+---
+
+### 🧾 Certifications
+- 📘 **Google Data Analytics – Coursera**  
+- 📗 **Google Advanced Data Analytics – Coursera**  
+- 🧠 **Machine Learning Program – NTI (Ministry of Communications)**  
+- 🔬 **Data Science – DEPI (Ongoing)**  
+- 📊 **Data Analysis Diploma – Machienfy**
+
+---
+
+### 📫 Connect With Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mazen--ashraf" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:mazenashraf6363@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
+  <a href="mailto:mazenashraf6363@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mazen--ashraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mazen787"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-🛠️ My Tech Stack & Skills
+---
 
-Here are the primary tools and technologies I work with:
+### 🏆 Fun Fact
+> “Data tells a story — my goal is to make sure it’s a story worth listening to.”  
 
-Languages & Core Tools
+---
 
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsql" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
-</p>
-
-Data Visualization
-
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi" title="Power BI" alt="Power BI" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtableau" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexcel" title="Excel" alt="Excel" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatplotlib" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp;
-</p>
-
-Data Science & Machine Learning
-
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy" title="NumPy" alt="NumPy" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn" title="Scikit-Learn" alt="Scikit-Learn" width="45" height="45"/>&nbsp;
-</p>
-
-Database
-
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsqlserver" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="45" height="45"/>&nbsp;
-</p>
-
-📈 Key Projects
-
-Here are a few highlights from my portfolio. Be sure to check out my repositories for more!
-
-🛒 Retail Sales Performance Dashboard: Analyzed 20,000+ transactions using Excel, Pivot Tables, and slicers to identify top products and underperforming stores.
-
-🏦 Bank Loan Data Analysis: Extracted key loan approval factors using SQL and visualized insights with Tableau, helping to streamline the decision-making process.
-
-🚗 Road Accident Analysis: Cleaned and analyzed accident data with Python (Pandas) and built a Power BI dashboard to identify high-risk areas and recommend safety improvements.
-
-📊 My GitHub Stats
-
-<p align="center">
-<!-- Change mazen787 to your GitHub username if it's different -->
-<!-- You can change the theme here: https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmazen787%26show_icons%3Dtrue%26theme%3Dtokyonight%26rank_icon%3Dgithub" alt="Mazen's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmazen787%26layout%3Dcompact%26theme%3Dtokyonight" alt="Mazen's Top Languages" />
-</p>
+⭐️ *Feel free to check out my projects or collaborate on data-driven initiatives!*
