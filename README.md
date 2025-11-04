@@ -78,7 +78,7 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ---
 
-### 💬 Fun Quote
+### 💬 Quote
 > “Data is the new oil — but only if you know how to refine it.”
 
 ---
