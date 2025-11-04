@@ -1,8 +1,8 @@
 <!-- Profile README for Mazen Ashraf -->
 <h1 align="center">🌟 Hello world! — I'm <span style="color:#4C8EDA;">Mazen Ashraf</span></h1>
-
+<h3 align="center"> Data Analyst | Data Scientist</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Welcome+in+my+profile"/>
 </p>
 
 
