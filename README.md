@@ -1,82 +1,83 @@
-<!-- Profile README for Mazen Ashraf -->
-<h1 align="center">🌟 Turning Data into Decisions — I'm <span style="color:#4C8EDA;">Mazen Ashraf</span></h1>
-<h3 align="center">📊 Data Analyst | Pythonista | Dashboard Builder | Storyteller with Data</h3>
+<!--
+Hi Mazen! This is a new, creative take on your profile.
+You can easily change the icons or add more by visiting skillicons.dev
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Data+Driven+Decision+Maker;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things!"/>
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hxdjQ5YjVzM3U3ZTBkZTh0ZWhjYWZsdXN6cnNqamtscjB2YWxkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px">
 </p>
 
----
+Hi, I'm Mazen 👋
 
-### 👋 About Me
-Hey there! I’m **Mazen Ashraf**, a passionate **Junior Data Analyst** from Cairo who loves turning raw data into clear and impactful insights.  
-I believe data is more than numbers — it’s the story behind every business decision.  
+I'm a Data Analyst driven by a deep curiosity to find the stories hidden within complex datasets. I don't just see numbers; I see opportunities to uncover insights that drive smarter decisions.
 
-🎓 *B.Sc. in Computer Science* – Akhbar El-Yom Academy (GPA: 3.1/4)  
-🧠 Currently exploring **Machine Learning**, **MLOps**, and **Prompt Engineering** with the **DEPI Program**  
-🏆 Certified by Google and NTI in **Data Analytics** and **Machine Learning**  
+📍 Based in El-Maadi, Cairo.
 
----
+👨‍💻 I specialize in data cleaning, modeling, and building powerful visualizations.
 
-### 🧰 My Toolbox
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,sqlserver" title="Python & SQL Server"/>
-  <!-- Visualization -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" title="Power BI, Tableau, Excel"/>
-  <!-- ML / Data -->
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy" title="scikit-learn, Pandas, NumPy"/>
-  <!-- General -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git, GitHub, VS Code"/>
+🌱 I'm always learning and currently advancing my skills in MLOps, Prompt Engineering, and Machine Learning.
+
+📬 Connect with Me
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mazen--ashraf" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="mailto:mazenashraf6363@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+</a>
 </p>
 
----
+🛠️ My Data Analytics Toolkit
 
-### 🚀 Featured Projects
+Here are the technologies I use to bring data to life:
 
-#### 🏪 **Retail Sales Performance Dashboard (Excel)**
-- Built an interactive Excel dashboard analyzing **20K+ transactions**  
-- Highlighted top 5 products contributing **28% of total revenue**  
+Languages
 
-#### 🏦 **Bank Loan Data Analysis (SQL + Tableau)**
-- Extracted insights via SQL and visualized with Tableau  
-- Helped reduce loan decision time by **60%**
-
-#### 🚦 **Road Accident Analysis (Python + Power BI)**
-- Cleaned and analyzed accident data in Python  
-- Built dashboards that improved safety insights by **70%**
-
----
-
-### 🧾 Certifications
-- 🎓 Google Data Analytics – Coursera  
-- 🎓 Google Advanced Data Analytics – Coursera  
-- 🤖 Machine Learning Program – NTI  
-- 🧠 Data Science – DEPI (Ongoing)  
-- 💡 Data Analysis Diploma – Machienfy  
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:mazenashraf6363@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/mazen--ashraf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mazen787" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="left">
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" title="Python" alt="Python" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsql" title="SQL" alt="SQL" />
+</a>
 </p>
 
----
+Data Science & Machine Learning
 
-### 💬 Fun Quote
-> “Data is the new oil — but only if you know how to refine it.”
+<p align="left">
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas" title="Pandas" alt="Pandas" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy" title="NumPy" alt="NumPy" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn" title="Scikit-Learn" alt="Scikit-Learn" />
+</a>
+</p>
 
----
+Visualization & BI Tools
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mazen787&label=Profile+Views&color=4C8EDA&style=for-the-badge" alt="Profile Views"/>
+<p align="left">
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi" title="Power BI" alt="Power BI" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtableau" title="Tableau" alt="Tableau" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexcel" title="Excel" alt="Excel" />
+</a>
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatplotlib" title="Matplotlib" alt="Matplotlib" />
+</a>
+</p>
+
+Database
+
+<p align="left">
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsqlserver" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
+</a>
 </p>
