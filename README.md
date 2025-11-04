@@ -11,10 +11,7 @@
 ### 👋 About Me
 Hey there! I’m **Mazen Ashraf**, a passionate **Junior Data Analyst** from Cairo who loves turning raw data into clear and impactful insights.  
 I believe data is more than numbers — it’s the story behind every business decision.  
-
-🎓 *B.Sc. in Computer Science* – Akhbar El-Yom Academy (GPA: 3.1/4)  
-🧠 Currently exploring **Machine Learning**, **MLOps**, and **Prompt Engineering** with the **DEPI Program**  
-🏆 Certified by Google and NTI in **Data Analytics** and **Machine Learning**  
+ 
 
 ---
 
@@ -32,21 +29,7 @@ I believe data is more than numbers — it’s the story behind every business d
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🏪 **Retail Sales Performance Dashboard (Excel)**
-- Built an interactive Excel dashboard analyzing **20K+ transactions**  
-- Highlighted top 5 products contributing **28% of total revenue**  
-
-#### 🏦 **Bank Loan Data Analysis (SQL + Tableau)**
-- Extracted insights via SQL and visualized with Tableau  
-- Helped reduce loan decision time by **60%**
-
-#### 🚦 **Road Accident Analysis (Python + Power BI)**
-- Cleaned and analyzed accident data in Python  
-- Built dashboards that improved safety insights by **70%**
-
----
 
 ### 🧾 Certifications
 - 🎓 Google Data Analytics – Coursera  
