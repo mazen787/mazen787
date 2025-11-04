@@ -1,68 +1,82 @@
 <!-- Profile README for Mazen Ashraf -->
-<h1 align="center">👋 Hi, I'm Mazen Ashraf</h1>
-<h3 align="center">Junior Data Analyst | Data Science Enthusiast | Lifelong Learner</h3>
+<h1 align="center">🌟 Turning Data into Decisions — I'm <span style="color:#4C8EDA;">Mazen Ashraf</span></h1>
+<h3 align="center">📊 Data Analyst | Pythonista | Dashboard Builder | Storyteller with Data</h3>
 
----
-
-### 🧠 About Me
-I'm a **Junior Data Analyst** passionate about transforming raw data into meaningful insights that drive better decisions.  
-I enjoy exploring datasets, building dashboards, and continuously learning the latest tools in data analytics and machine learning.  
-
-🎓 **B.Sc. in Computer Science** – Akhbar El-Yom Academy (GPA 3.1/4)  
-💡 Certified by **Google Data Analytics** & **NTI Machine Learning Program**  
-🚀 Currently advancing in **MLOps**, **Prompt Engineering**, and **Machine Learning** through the DEPI Initiative  
-
----
-
-### 🛠️ Technical Skills
-
-**Languages:** Python (Pandas, NumPy, Matplotlib, scikit-learn), SQL  
-**Databases:** Microsoft SQL Server  
-**Visualization Tools:** Power BI (Power Query, DAX), Tableau, Excel  
-**Data Handling:** Cleaning, Wrangling, Modeling, Missing Data Treatment  
-**Statistics:** Descriptive Stats, Hypothesis Testing, Data Interpretation  
-**Machine Learning:** Supervised & Unsupervised Learning, Neural Networks, Model Evaluation  
-**Soft Skills:** Leadership, Communication, Presentation, Teamwork, Adaptability  
-
----
-
-### 📊 Featured Projects
-
-#### 🏪 [Retail Sales Performance Dashboard (Excel)](https://github.com/mazen787)
-- Built an interactive dashboard analyzing **20,000+ transactions** using PivotTables & slicers  
-- Uncovered top 5 products driving **28% of total revenue** and underperforming stores missing targets by **25%**  
-
-#### 🏦 [Bank Loan Data Analysis (SQL, Tableau)](https://github.com/mazen787)
-- Extracted key insights using SQL and visualized with Tableau  
-- Reduced decision time by **60%** and identified top factors affecting loan approvals  
-
-#### 🚦 [Road Accident Analysis (Python, Power BI)](https://github.com/mazen787)
-- Cleaned and analyzed accident data in Python (handling duplicates & missing values)  
-- Built a Power BI dashboard showing trends and safety recommendations with **70% improvement**  
-
----
-
-### 🧾 Certifications
-- 📘 **Google Data Analytics – Coursera**  
-- 📗 **Google Advanced Data Analytics – Coursera**  
-- 🧠 **Machine Learning Program – NTI (Ministry of Communications)**  
-- 🔬 **Data Science – DEPI (Ongoing)**  
-- 📊 **Data Analysis Diploma – Machienfy**
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="mailto:mazenashraf6363@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mazen--ashraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mazen787"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Data+Driven+Decision+Maker;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things!"/>
 </p>
 
 ---
 
-### 🏆 Fun Fact
-> “Data tells a story — my goal is to make sure it’s a story worth listening to.”  
+### 👋 About Me
+Hey there! I’m **Mazen Ashraf**, a passionate **Junior Data Analyst** from Cairo who loves turning raw data into clear and impactful insights.  
+I believe data is more than numbers — it’s the story behind every business decision.  
+
+🎓 *B.Sc. in Computer Science* – Akhbar El-Yom Academy (GPA: 3.1/4)  
+🧠 Currently exploring **Machine Learning**, **MLOps**, and **Prompt Engineering** with the **DEPI Program**  
+🏆 Certified by Google and NTI in **Data Analytics** and **Machine Learning**  
 
 ---
 
-⭐️ *Feel free to check out my projects or collaborate on data-driven initiatives!*
+### 🧰 My Toolbox
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,sqlserver" title="Python & SQL Server"/>
+  <!-- Visualization -->
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" title="Power BI, Tableau, Excel"/>
+  <!-- ML / Data -->
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pandas,numpy" title="scikit-learn, Pandas, NumPy"/>
+  <!-- General -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git, GitHub, VS Code"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏪 **Retail Sales Performance Dashboard (Excel)**
+- Built an interactive Excel dashboard analyzing **20K+ transactions**  
+- Highlighted top 5 products contributing **28% of total revenue**  
+
+#### 🏦 **Bank Loan Data Analysis (SQL + Tableau)**
+- Extracted insights via SQL and visualized with Tableau  
+- Helped reduce loan decision time by **60%**
+
+#### 🚦 **Road Accident Analysis (Python + Power BI)**
+- Cleaned and analyzed accident data in Python  
+- Built dashboards that improved safety insights by **70%**
+
+---
+
+### 🧾 Certifications
+- 🎓 Google Data Analytics – Coursera  
+- 🎓 Google Advanced Data Analytics – Coursera  
+- 🤖 Machine Learning Program – NTI  
+- 🧠 Data Science – DEPI (Ongoing)  
+- 💡 Data Analysis Diploma – Machienfy  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:mazenashraf6363@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mazen--ashraf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mazen787" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 💬 Fun Quote
+> “Data is the new oil — but only if you know how to refine it.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mazen787&label=Profile+Views&color=4C8EDA&style=for-the-badge" alt="Profile Views"/>
+</p>
