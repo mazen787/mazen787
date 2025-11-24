@@ -75,8 +75,8 @@ I believe data is more than numbers — it’s the story behind every business d
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Phone -->
-  <a href="tel:+201204704152" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Number"/>
+  <a href="https://wa.me/201204704152" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <!-- Resume -->
   <a href="https://drive.google.com/file/d/1WqSE1J08wYUEhTsW-6kbdE6Zbt-3hpbZ/view?usp=sharing" target="_blank">
